@@ -32,13 +32,13 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/breast-cancer-diagnosis.git
+    git clone https://github.com/jaywyawhare/Breast-Cancer-Diagnosis-Classification.git
     ```
 
 1. Navigate to the project directory:
 
     ```bash
-    cd breast-cancer-diagnosis
+    cd Breast-Cancer-Diagnosis-Classification
     ```
 
 1. Install the required packages:
